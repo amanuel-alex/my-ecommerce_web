@@ -3,7 +3,7 @@ import StartingPage from "./components/page";
 import HomePage from "./home/page";
 export default function Home() {
   return (
-    <div>
+    <div className="px-3">
       <StartingPage />
       <HomePage />
     </div>
